@@ -30,7 +30,7 @@
 
 
 // let -> mutable -> değişebilir, yeni değer ile  başta değer atamak zorunda değilsin,
-// const -> immutable -> değişmez başta değer atamalısıjn ve değer değiştirilemez.
+// const -> immutable -> değişmez başta değer atamalısın ve değer değiştirilemez.
 
 //Çalışır
 //-------------------
