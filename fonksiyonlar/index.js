@@ -43,7 +43,7 @@ const nameFunc4 = (a,b) => {
 nameFunc4(num2,num3)
 
 
-// tek tek a.b.c yazmaktansa ...props ile hepsini sağlarız (a, ...props) ile a = num1 kalan ...props= num2,num3,num4 sağlar. eğer (...props, a) yazarzan hata alır her zaman sona doğtru olmak zorunda.
+// tek tek a.b.c yazmaktansa ...props ile hepsini sağlarız (a, ...props) ile a = num1 kalan ...props= num2,num3,num4 sağlar. eğer (...props, a) yazarzan hata alır her zaman sona doğtru olmak zorunda. Bua spread operatör deriz.
 
 let num4 =30
 let num5 = 40
