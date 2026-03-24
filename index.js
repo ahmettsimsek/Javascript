@@ -28,5 +28,5 @@ btn.addEventListener('click', () => { // click eklediğim için listener zorunlu
 */
 
 const funcOne = () => {
-    prompt('deneme mesajı')
+    prompt('deneme mesajıdır')
 }   
