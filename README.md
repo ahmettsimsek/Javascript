@@ -50,13 +50,11 @@ new_map_kavramı: Modern JavaScript veri yapıları.
 Projeleri yerel makinenizde çalıştırmak için:
 
 Repoyu klonlayın:
-```
-Bash
+```Bash
 git clone https://github.com/kullanici-adin/repo-adin.git
 Gerekli paketleri (nodemon, axios vb.) yüklemek için:
 ```
-```
-Bash
+```Bash
 npm install
 Herhangi bir dersi çalıştırmak için klasöre gidip node index.js veya npm start diyebilirsiniz.
 ```
