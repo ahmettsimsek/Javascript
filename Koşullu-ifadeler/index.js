@@ -33,7 +33,7 @@ switch (key) {
     case 26:
         console.log("yaş 26 eşitmiş")
         break;
-      case 27:
+    case 27:
         console.log("yaş 27 eşitmiş")
         break;
     default: //başlangıç durumu

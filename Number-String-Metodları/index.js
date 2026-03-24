@@ -45,8 +45,8 @@ console.log(name2.replace('e', 'E')) // karşımıza çıkan ilk e'i büyük E i
 // 9- string ifademizde hepsini kapsıyacak şekilde  yer değiştirme için .replaceAll() methodu kulanılır ya da .replace(/degişen/g değiştirmek istenilen)
 
 let name3 = "AhmetSimsek";
-console.log(name3.replaceAll('e', 'E')) // karşımıza çıkan ilk e'i büyük E ile değiştiridik. 
-console.log(name3.replace(/e/g, 'E')) // karşımıza çıkan ilk e'i büyük E ile değiştiridik. 
+console.log(name3.replaceAll('e', 'E')) // karşımıza çıkan tüm e'i büyük E ile değiştiridik. 
+console.log(name3.replace(/e/g, 'E')) // karşımıza çıkan tüm g'i büyük G ile değiştiridik. 
 
 // 9- Metinsel ifademizi array hale getirmek için .split() methodu kullanılır.
 
@@ -81,7 +81,7 @@ console.log(name8.trim())
 let name9 = "AhmetSimsek";
 console.log(name9.includes('e'))
 
-//15- .seearch() parametresi ile gerçekten string yapımın içerisinde var mı yok mu bunu kontrol eder. yoksa -1 varsa kaçıncı indexte olduğunu döndürür.
+//15- .search() parametresi ile gerçekten string yapımın içerisinde var mı yok mu bunu kontrol eder. yoksa -1 varsa kaçıncı indexte olduğunu döndürür.
 
 let name10 = "AhmetSimsek";
 console.log(name10.search('r')) // -1 döner

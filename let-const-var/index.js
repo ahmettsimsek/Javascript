@@ -46,13 +46,13 @@
 
 //hata verir
 //---------------
-//const x='10'
+//const x ='10'
 // x = '20'
 //console.log(x)
 
 //Çalışır
 //---------------
-//const x='10'
+//const x ='10'
 //console.log(x)
 
 // const,  içerisi array veya obje varsa değiştirilebilir.
